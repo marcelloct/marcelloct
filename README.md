@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Marcello 👋
+
+**About me:**
+
+- 💻 I'm web developer
+- 🌱 I’m currently learning Javascript, NodeJS, SQL
 
 <!--
 **marcelloct/marcelloct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
