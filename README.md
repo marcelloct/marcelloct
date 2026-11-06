@@ -2,7 +2,7 @@
 
 <div style="display:flex">
 
-<div style="display:flex;flex-direction:column;flex:2" align="left">
+<div style="display:flex;flex-direction:column;flex:2">
 <p>Welcome to my Github page! I'm a Full Stack Developer.</p>
 
 <p>
@@ -18,7 +18,9 @@
 </p>
 </div>
 
-<img align="right" src=".github/images/image_48af302c.jpg" alt="illustration of a programmer and your cozy desk" width="300px" height="300px" style="margin-left:1rem;">
+<img src=".github/images/image_48af302c.jpg" alt="illustration of a programmer and your cozy desk" width="300px" height="300px" style="margin-left:1rem;float:right">
+
+<div style="clear: both;"></div>
 
 </div>
 
