@@ -12,9 +12,9 @@ interface Dev {
 }
 
 const aboutMe: Dev = {
-  name: 'Seu Nome',
+  name: 'Marcello',
   role: 'Full Stack Developer',
-  location: 'Bertioga, SP 🇧🇷',
+  location: 'São Paulo, 🇧🇷',
   stack: [
     'JavaScript',
     'TypeScript',
@@ -23,12 +23,11 @@ const aboutMe: Dev = {
     'PostgreSQL',
     'Docker',
   ],
-  currentlyLearning: ['NextJS', 'System Design'],
-  currentlyBuilding: 'Nome do projeto (link)',
+  currentlyLearning: ['NextJS', 'React Native'],
+  currentlyBuilding: 'cinepops (https://github.com/marcelloct/cinepops)',
   contact: {
-    linkedin: 'linkedin.com/in/seu-usuario',
-    email: 'seu@email.com',
-    portfolio: 'seusite.dev',
+    linkedin: 'linkedin.com/in/user',
+    email: 'my@email.com',
   },
 };
 
