@@ -18,7 +18,7 @@
 </p>
 </div>
 
-<img src=".github/images/image_48af302c.jpg" alt="illustration of a programmer and your cozy desk" width="50%" height="auto" style="margin-left:1rem;max-height: 300px; max-width: 300px">
+<img src=".github/images/image_48af302c.jpg" alt="illustration of a programmer and your cozy desk" width="50%" height="auto" style="margin-left:1rem;max-height: 200px; max-width: 200px">
 
 </div>
 
