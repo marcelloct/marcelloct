@@ -2,20 +2,13 @@
 
 Welcome to my Github page! I'm a Full Stack Developer.
 
-<div style="display:flex; align-items:flex-start;">
-
-<div style="display:flex; flex-direction:column;">
-
 🌱 &nbsp; I'm currently learning: &nbsp; ![NEXTJS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp; ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 🏗️ &nbsp; Currently Building: <a href="https://github.com/marcelloct/cinepops" style="text-decoration: underline">cinepops</a>
 
 ✍️ &nbsp; Pursuing Graphic Design and UI/UX as hobbies/side hustles.
 
-</div>
-
-<img src=".github/images/image_48af302c.jpg" alt="illustration of a programmer and your cozy desk" width="200" height="auto" style="margin-left:1rem">
-</div>
+<img src=".github/images/image_48af302c.jpg" alt="illustration of a programmer and your cozy desk" width="200" height="auto" style="margin-left:1rem" align="right">
 
 ## ⚙️ Tecnologias
 
@@ -40,12 +33,12 @@ Welcome to my Github page! I'm a Full Stack Developer.
 ![Figma](https://img.shields.io/badge/-Figma-ff7237?style=flat&logo=figma&logoColor=white)
 ![Affinity](https://img.shields.io/badge/-Affinity-96d969?style=flat&logo=affinity)
 
-## 📊 Estatísticas
+<!-- ## 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcelloct&show_icons=true&theme=tokyonight" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloct&layout=compact&theme=tokyonight" height="150" alt="Top languages" />
-</p>
+</p> -->
 
 ## 📫 Contato
 
