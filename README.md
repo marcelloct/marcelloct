@@ -2,7 +2,7 @@
 
 <div style="display:flex">
 
-<div style="display:flex;flex-direction:column;flex:2">
+<div style="display:flex;flex-direction:column;flex:2" align="left">
 <p>Welcome to my Github page! I'm a Full Stack Developer.</p>
 
 <p>
