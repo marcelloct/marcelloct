@@ -1,14 +1,26 @@
 ## Hey there! I'm Marcello 👋
 
-Welcome to my Github page! I'm a Full Stack Developer.
+<div style="display:flex">
 
-🌱 &nbsp; I'm currently learning: &nbsp; ![NEXTJS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp; ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+<div style="display:flex;flex-direction:column;flex:2">
+<p>Welcome to my Github page! I'm a Full Stack Developer.</p>
 
+<p>
+🌱 &nbsp; I'm currently learning: &nbsp; <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="nextjs"/> &nbsp; <img src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react" alt="react native" />
+</p>
+
+<p>
 🏗️ &nbsp; Currently Building: <a href="https://github.com/marcelloct/cinepops" style="text-decoration: underline">cinepops</a>
+</p>
 
+<p>
 ✍️ &nbsp; Pursuing Graphic Design and UI/UX as hobbies/side hustles.
+</p>
+</div>
 
-<img src=".github/images/image_48af302c.jpg" alt="illustration of a programmer and your cozy desk" width="200" height="auto" style="margin-left:1rem" align="right">
+<img src=".github/images/image_48af302c.jpg" alt="illustration of a programmer and your cozy desk" width="50%" height="auto" style="margin-left:1rem;max-height: 300px; max-width: 300px">
+
+</div>
 
 ## ⚙️ Tecnologias
 
