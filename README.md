@@ -1,28 +1,21 @@
 ## Hey there! I'm Marcello 👋
 
-<div style="display:flex;flex-wrap:no-wrap">
+Welcome to my Github page! I'm a Full Stack Developer.
 
-<div style="display:flex;flex-direction:column;flex:2">
-<p>Welcome to my Github page! I'm a Full Stack Developer.</p>
 
-<p>
+
+ <img src=".github/images/image_48af302c.jpg" style="width:300px;height:300px" align="right" style="display:block"/>
+
+
 🌱 &nbsp; I'm currently learning: &nbsp; <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" alt="nextjs"/> &nbsp; <img src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react" alt="react native" />
-</p>
 
-<p>
 🏗️ &nbsp; Currently Building: <a href="https://github.com/marcelloct/cinepops" style="text-decoration: underline">cinepops</a>
-</p>
 
-<p>
 ✍️ &nbsp; Pursuing Graphic Design and UI/UX as hobbies/side hustles.
-</p>
-</div>
 
-![Main Image](.github/images/image_48af302c.jpg)
+<br>
 
-</div>
-
-## ⚙️ Tecnologias
+### ⚙️ Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
@@ -51,8 +44,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marcelloct&show_icons=true&theme=tokyonight" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloct&layout=compact&theme=tokyonight" height="150" alt="Top languages" />
 </p> -->
+<br>
+<hr>
 
-## 📫 Contato
+### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu@email.com)
